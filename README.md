@@ -1,4 +1,5 @@
 c-quicksort
 ===========
 
-quicksort with c
+quicksort with c programing language
+
